@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Basic_Calculator/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Basic_Calculator</string>
+    <string name="hello">Hello World, Basic_CalculatorActivity!</string>
+    <!-- From: file:/C:/Basic_Calculator/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Theme_light" parent="android:Theme.Holo.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
